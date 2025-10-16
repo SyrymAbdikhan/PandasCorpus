@@ -48,5 +48,5 @@ Additional programs:
 
 To obtain more or different results, these things can be tuned:
 
-- **pandas_ops.csv**: currently it contains only 136 operations of Dataframe and general functions. It can be extended, for instance, with index objects, window objects, and so on.
+- **Pandas operations set** (pandas_ops.csv): currently it contains only 136 operations of Dataframe and general functions. It can be extended, for instance, with index objects, window objects, and so on.
 - **Query parameters** (in search_notebooks.py): these parameters are already good, but can be extended.
