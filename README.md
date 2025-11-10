@@ -55,7 +55,7 @@ To obtain more or different results, these things can be tuned:
 
 <table>
   <caption>
-    Statistics of General Cell-Level Features
+    Statistics of General Notebook Cell-Level Features
   </caption>
   <thead>
     <tr>
@@ -183,7 +183,7 @@ To obtain more or different results, these things can be tuned:
 
 <table>
   <caption>
-    Statistics of Pandas-Specific Features
+    Statistics of Pandas-Specific Cell-Level Features
   </caption>
   <thead>
     <tr>
