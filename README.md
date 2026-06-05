@@ -1,4 +1,4 @@
-# PandasCorpus: A Dataset of Pandas Workflows on GitHub
+# PandasCorpus
 
 ## Overview
 
