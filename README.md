@@ -6,11 +6,7 @@ PandasCorpus is a dataset collected from the GitHub repositories that contains a
 
 ## Quickstart
 
-Install dependencies and open `quickstart.ipynb` for a step-by-step walkthrough of loading the data, inspecting metrics, resolving notebook hashes to GitHub URLs, and filtering cells by Pandas operation. For deeper analysis and visualizations, see `stats.ipynb`.
-
-```bash
-pip install -r requirements.txt
-```
+Open `quickstart.ipynb` for a step-by-step walkthrough of loading the data, inspecting metrics, resolving notebook hashes to GitHub URLs, and filtering cells by Pandas operation. For deeper analysis and visualizations, see `stats.ipynb`.
 
 ## Repository Contents
 
